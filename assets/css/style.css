@@ -309,7 +309,7 @@ a {
 /* Carte visuelle de CV (comme une cert-card) */
 .cv-preview {
     width: 100%;
-    max-width: 600px;
+    max-width: 360px;
     height: auto;
     aspect-ratio: 3 / 4;
     border-radius: 14px;
