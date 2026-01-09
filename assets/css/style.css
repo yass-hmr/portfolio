@@ -284,10 +284,17 @@ a {
 }
 
 .cv-grid {
-    display: grid;
+    display: flex;
+    justify-content: center;
     grid-template-columns: repeat(2, 1fr);
     gap: 1.5rem;
     margin-top: 2rem;
+}
+
+.cv-column {
+    max-width: 520px;      /* optionnel, pour un rendu plus élégant */
+    margin: 0 auto;        /* centre horizontalement */
+    text-align: center;    /* si tu veux un rendu clean */
 }
 
 .cv-column h3 {
