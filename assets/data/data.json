@@ -11,16 +11,9 @@
     {
       "id": "devweb",
       "title": "Développeur Web Junior",
-      "description": "Orienté front-end / back-end, projets web et portfolio.",
-      "file": "assets/cv/yassine-hamri-dev-web.pdf"
+      "description": "Orienté front-end / back-end, projets web.",
+      "file": "assets/cv/cv-yassine-hamri.pdf"
     },
-    {
-      "id": "data",
-      "title": "Data Analyse",
-      "description": "Orienté analyses de données, scrapping, automatisations et visualisation.",
-      "file": "assets/cv/yassine-hamri-data-analyse.pdf"
-    }
-  ],
 
   "certifications": [
     {
@@ -85,7 +78,8 @@
         "Requests",
         "BeautifulSoup",
         "CSV",
-        "Web Scraping"
+        "Web Scraping",
+        "Assistance IA (chatGPT)"
       ],
       "github": "https://github.com/YassGOAT/python_projects/tree/ef947836d1c1ac67e8291cd3f84cc20061aca020/ScrapeThisSite"
     },
@@ -108,7 +102,8 @@
         "POO",
         "Flask",
         "Web Development",
-        "UX/UI" 
+        "UX/UI",
+        "Assistance IA (chatGPT)"
       ],
       "demo": "https://blackjack-poo.onrender.com",
       "github": "https://github.com/yass-hmr/Blackjack_POO"
@@ -129,7 +124,8 @@
         "Requests",
         "BeautifulSoup",
         "CSV",
-        "Web Scraping"
+        "Web Scraping",
+        "Assistance IA (chatGPT)"
       ],
       "github": "https://github.com/YassGOAT/python_projects/tree/dbf13be282025f837506db281000934d3172c776/BookToScrape"
     },
@@ -148,7 +144,8 @@
         "Requests",
         "BeautifulSoup",
         "CSV",
-        "Web Scraping"
+        "Web Scraping",
+        "Assistance IA (chatGPT)"
       ],
       "github": "https://github.com/YassGOAT/python_projects/tree/dbf13be282025f837506db281000934d3172c776/QuotesToScrape"
     },
@@ -170,7 +167,8 @@
         "POO",
         "Flask",
         "Web Development",
-        "UX/UI"
+        "UX/UI",
+        "Assistance IA (chatGPT)"
       ],
       "demo": "https://pendu-poo.onrender.com",
       "github": "https://github.com/yass-hmr/Pendu_POO"
