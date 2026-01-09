@@ -292,9 +292,9 @@ a {
 }
 
 .cv-column {
-    max-width: 520px;      /* optionnel, pour un rendu plus élégant */
-    margin: 0 auto;        /* centre horizontalement */
-    text-align: center;    /* si tu veux un rendu clean */
+    max-width: 680px;
+    padding: 2rem 1.5rem;
+    margin: 0 auto;
 }
 
 .cv-column h3 {
@@ -309,7 +309,8 @@ a {
 /* Carte visuelle de CV (comme une cert-card) */
 .cv-preview {
     width: 100%;
-    max-width: 280px;
+    max-width: 360px;
+    height: auto;
     aspect-ratio: 3 / 4;
     border-radius: 14px;
     overflow: hidden;
