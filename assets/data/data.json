@@ -63,6 +63,27 @@
 
   "projects": [
     {
+      "id": "ha-facturation-app",
+      "title": "Logiciel bureautique de facturation pour le garage HA Autos",
+      "description": "Application de bureau de facturation pour garage automobile, permettant de créer, gérer, exporter, imprimer et partager des factures PDF professionnelles en toute simplicité.",
+      "images": [
+        "assets/img/projets/ha-facturation-app/view_editor_facture.png",
+        "assets/img/projets/ha-facturation-app/view_parametres.png",
+        "assets/img/projets/ha-facturation-app/view_facture_list.png",
+        "assets/img/projets/ha-facturation-app/view_pdf_list.png",
+        "assets/img/projets/ha-facturation-app/view_pdf_facture.png"
+      ],
+      "techs": [
+        "Python",
+        "SQLite",
+        "ReportLab",
+        "PyInstaller",
+        "PySide6",
+        "Assistance IA (chatGPT)"
+      ],
+      "github": "https://github.com/yass-hmr/HA_Autos_Facturation.git"
+    },
+    {
       "id": "scrapethissite-hockey",
       "title": "Scraping des statistiques NHL – ScrapeThisSite",
       "description": "Un script Python complet qui extrait toutes les statistiques des équipes NHL depuis ScrapeThisSite : résultats, victoires, défaites, pourcentage de victoire, goals et plus. Le programme gère toute la pagination, nettoie les données et exporte un CSV final complet.",
