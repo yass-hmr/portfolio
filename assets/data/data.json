@@ -2,9 +2,9 @@
   "presentation": {
     "name": "Yassine Hamri",
     "role": "Développeur Junior",
-    "description": "Je suis un développeur intérressé par le web, l'automatisation et l'UX/UI",
+    "description": "Je suis un développeur intérressé par la concept web et logiciel, l'automatisation et l'UX/UI",
     "photo": "assets/img/icons/default-profile.png",
-    "tags": ["Front-end", "Back-end", "Python", "JavaScript", "Data Analyse", "Web Scraping", "UX/UI"]
+    "tags": ["Front-end", "Back-end", "Python", "JavaScript", "Data Analyse", "Web Scraping", "UX/UI", "PHP/SQL", "React"]
   },
 
   "cv": [
@@ -12,7 +12,7 @@
       "id": "devweb",
       "title": "Développeur Junior",
       "description": "Orienté front-end / back-end, projets web, applications métiers et BDD.",
-      "file": "assets/cv/cv-yassine-hamri-dev-junior.pdf"
+      "file": "assets/cv/cv-yassine-hamri-dev-junior-emploi.pdf"
     }
   ],
 
