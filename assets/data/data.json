@@ -67,10 +67,10 @@
       "title": "Site vitrine garage automobile",
       "description": "Site WordPress complet pour un garage automobile. Catalogue véhicules avec filtres avancés (WooCommerce + YITH), pages responsive Elementor, pièces auto avec commande téléphonique. Conçu comme template réutilisable.",
       "images": [
-        "assets/img/projets/garage-website-wordpress/view-pages-garage-website.png",
-        "assets/img/projets/garage-website-wordpress/view-pages-garage-website (2).png",
-        "assets/img/projets/garage-website-wordpress/view-pages-garage-website (3).png",
-        "assets/img/projets/garage-website-wordpress/dashboard-admin.png"
+        "assets/img/projets/garage-website-wordpress/view_pages_garage_website.png",
+        "assets/img/projets/garage-website-wordpress/view_pages_garage_website_2.png",
+        "assets/img/projets/garage-website-wordpress/view_pages_garage_website_3.png",
+        "assets/img/projets/garage-website-wordpress/dashboard_admin.png"
       ],
       "techs": [
         "Wordpress",
